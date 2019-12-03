@@ -3,6 +3,6 @@
 
 ==============
 
-<https://stepik.org/course/67/syllabus>
+https://stepik.org/course/67/syllabus
 
 ---------------
